@@ -145,7 +145,17 @@ The service supports the municipality's participation in the remote travel-certi
 
 The project involved the complete backend development lifecycle, from database and integration setup to application development, testing, and production deployment.
 
-## 7. Source Code and Confidentiality
+## 7. Technical Documentation
+
+A detailed technical report was prepared during the development of APIWebCV, documenting the project's architecture, implementation, integration testing, and Linux deployment.
+
+The original report is available in Catalan:
+
+**[APIWebCV — Technical Report (Catalan)](./Memòria_APIWebCV.pdf)**
+
+The report covers the development process, from setting up the Oracle database environment and implementing the SOAP service to authentication, error handling, and production deployment.
+
+## 8. Source Code and Confidentiality
 
 APIWebCV was developed professionally for the Ajuntament de Sóller.
 
